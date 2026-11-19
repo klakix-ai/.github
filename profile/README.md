@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://klakix.com">Website</a> ·
   <a href="https://klakix.com/mcp">MCP server</a> ·
+  <a href="https://klakix.com/blender-mcp">Blender MCP</a> ·
   <a href="https://klakix.com/models">Models</a> ·
   <a href="https://klakix.com/pricing">Pricing</a> ·
   <a href="https://x.com/klakix">X</a>
@@ -25,6 +26,7 @@
 | Project | What it is |
 |---|---|
 | [klakix-mcp](https://github.com/klakix-ai/klakix-mcp) | Klakix MCP server: setup for Claude, ChatGPT, Claude Code, Cursor, VS Code, Devin Desktop (Windsurf), Codex and Gemini CLI, the 19 tools and 7 workflows. |
+| [klakix-blender](https://github.com/klakix-ai/klakix-blender) | Blender MCP add-on (GPL-3.0, Blender 4.2+): lets Claude, ChatGPT, Cursor and other MCP clients build, light, animate and render in your open Blender scene through the same Klakix MCP URL. |
 | [`klakix-mcp` on npm](https://github.com/klakix-ai/klakix-mcp/tree/main/packages/cli) | Stdio bridge for Claude Desktop: `npx -y klakix-mcp`. |
 | [`@klakix/mcp-server`](https://github.com/klakix-ai/klakix-mcp/tree/main/packages/mcp-server) | Stateless Streamable HTTP MCP server for the Fetch API, with zod tools, prompts, resources and an SSRF-safe media fetcher. |
 | [`@klakix/mcp-oauth`](https://github.com/klakix-ai/klakix-mcp/tree/main/packages/mcp-oauth) | OAuth 2.1 authorization server for remote MCP servers: PKCE, dynamic client registration, client ID metadata documents, refresh token rotation. |
