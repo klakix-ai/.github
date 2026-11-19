@@ -22,9 +22,12 @@
 
 ## Open source
 
-| Repository | What it is |
+| Project | What it is |
 |---|---|
-| [klakix-mcp](https://github.com/klakix-ai/klakix-mcp) | Klakix MCP server: setup for Claude, ChatGPT, Claude Code, Cursor, VS Code, Devin Desktop (Windsurf), Codex and Gemini CLI, the 19 tools, 7 workflows and ready-to-copy configs. |
+| [klakix-mcp](https://github.com/klakix-ai/klakix-mcp) | Klakix MCP server: setup for Claude, ChatGPT, Claude Code, Cursor, VS Code, Devin Desktop (Windsurf), Codex and Gemini CLI, the 19 tools and 7 workflows. |
+| [`klakix-mcp` on npm](https://github.com/klakix-ai/klakix-mcp/tree/main/packages/cli) | Stdio bridge for Claude Desktop: `npx -y klakix-mcp`. |
+| [`@klakix/mcp-server`](https://github.com/klakix-ai/klakix-mcp/tree/main/packages/mcp-server) | Stateless Streamable HTTP MCP server for the Fetch API, with zod tools, prompts, resources and an SSRF-safe media fetcher. |
+| [`@klakix/mcp-oauth`](https://github.com/klakix-ai/klakix-mcp/tree/main/packages/mcp-oauth) | OAuth 2.1 authorization server for remote MCP servers: PKCE, dynamic client registration, client ID metadata documents, refresh token rotation. |
 
 ## Klakix MCP server in one line
 
