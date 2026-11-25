@@ -12,6 +12,7 @@
   <a href="https://klakix.com">Website</a> ·
   <a href="https://klakix.com/mcp">MCP server</a> ·
   <a href="https://klakix.com/blender-mcp">Blender MCP</a> ·
+  <a href="https://klakix.com/ai-video-skills">AI video skills</a> ·
   <a href="https://klakix.com/models">Models</a> ·
   <a href="https://klakix.com/pricing">Pricing</a> ·
   <a href="https://x.com/klakix">X</a>
@@ -25,6 +26,7 @@
 
 | Project | What it is |
 |---|---|
+| [ai-video-skills](https://github.com/klakix-ai/ai-video-skills) | Ten Agent Skills for AI video production (MIT): camera angles, character consistency, Seedance and Kling prompts, realism, lip sync, pacing, viral formats, phone screen compositing and 3D previs. Works with Claude Code, Codex, Cursor and Gemini CLI. |
 | [klakix-mcp](https://github.com/klakix-ai/klakix-mcp) | Klakix MCP server: setup for Claude, ChatGPT, Claude Code, Cursor, VS Code, Devin Desktop (Windsurf), Codex and Gemini CLI, the 19 tools and 7 workflows. |
 | [klakix-blender](https://github.com/klakix-ai/klakix-blender) | Blender MCP add-on (GPL-3.0, Blender 4.2+): lets Claude, ChatGPT, Cursor and other MCP clients build, light, animate and render in your open Blender scene through the same Klakix MCP URL. |
 | [`klakix-mcp` on npm](https://github.com/klakix-ai/klakix-mcp/tree/main/packages/cli) | Stdio bridge for Claude Desktop: `npx -y klakix-mcp`. |
